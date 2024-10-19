@@ -166,7 +166,7 @@ elseif($msg=="fail"){
 
         <div class="container">
         <div class="innerdiv">
-            <div class="row"><img class="imglogo" src="images/logo.png"/></div>
+           <div class="row"><img class="imglogo" src="images/logo.webp" height="100px"  weight="100px"/></div>
             <div class="leftinnerdiv">
                 <!-- <Button class="greenbtn"> ADMIN</Button> -->
                 <br>
