@@ -11,10 +11,12 @@
     </head>
     <style>
 
-    body{
-        background-image: url('images/library.jpg')
-        
-    }
+    body {
+  background-image: url('images/sk.webp');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
 
 
     .login-form-3 .btnSubmit {
